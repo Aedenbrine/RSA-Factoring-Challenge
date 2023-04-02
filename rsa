@@ -1,6 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
+# library to get arguments
 import sys
+
 
 # fn unpack number factorial
 def fc():
